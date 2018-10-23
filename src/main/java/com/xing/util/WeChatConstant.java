@@ -7,13 +7,13 @@ package com.xing.util;
 
 
 public class WeChatConstant {
-    //第三方用户唯一凭证
+    //微信公众号id
     public final static String APPID = "";
 
-    //第三方用户唯一凭证密钥，即 APPSECRET
+    //微信公众号密钥，即 APPSECRET
     public final static String APPSECRET = "";
 
-    // app token
+    // 微信公众号 token
     public final static String TOKEN = "";
 
     // 平台名称
@@ -25,13 +25,13 @@ public class WeChatConstant {
     // 小程序的 appid
     public final static String MINIPROGRAM_ID = "";
 
-    // 小程序页面路径
+    // 小程序页面跳转路径
     public final static String MINIPROGRAM_PAGEPATH = "";
 
-    // 绑定指令
+    // 绑定指令符
     public final static String SYMBOL_BIND = "@";
 
-    // 解绑指令
+    // 解绑指令符
     public final static String SYMBOL_UNBIND = "#";
 
     // 分隔符
